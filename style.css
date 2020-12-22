@@ -1,0 +1,30 @@
+html {
+    background: linear-gradient( to right, rgb(168, 26, 187), rgb(97, 40, 172));
+}
+
+.container {
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 10px;
+    height: 20px;
+    border: red;
+    padding: 20px;
+    background-color: red;
+}
+
+/* .button {
+    margin-top: 80px;
+    margin-left: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: rgb(218, 7, 7);
+    border:none;
+    border-radius: 6px;
+    text-align: center;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+} */
+
+/* .button:hover {
+    background-color: rgb(22, 64, 202);
+} */
